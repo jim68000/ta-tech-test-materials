@@ -14,18 +14,10 @@ org_types = [
 ]
 
 categories = [
-    "cat_actions_against_police",
-    "cat_clinical_negligence",
-    "cat_community_care",
     "cat_crime",
     "cat_debt",
-    "cat_family",
-    "cat_family_mediation",
     "cat_housing",
     "cat_immigration_or_asylum",
-    "cat_mental_health",
-    "cat_prison_law",
-    "cat_public_law",
     "cat_welfare_benefits"
 ]
 
